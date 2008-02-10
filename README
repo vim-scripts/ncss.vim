@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2149
+
+This is the syntax file vor NCSS (Nested CSS), also known as CSS DRYer.
+
+It is used as an optional plugin for the Ruby on Rails to write CSS without repeating yourself. 
+
+Please see http://opensource.airbladesoftware.com/trunk/plugins/css_dryer
